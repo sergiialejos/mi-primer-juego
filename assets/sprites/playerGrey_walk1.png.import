@@ -2,12 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0wgfb0jqjrws"
-valid=false
+uid="uid://gxvn3ev8b8d1"
+path="res://.godot/imported/playerGrey_walk1.png-6e3683505061efbcedb14de666c244a8.ctex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://assets/sprites/playerGrey_walk1.png"
+dest_files=["res://.godot/imported/playerGrey_walk1.png-6e3683505061efbcedb14de666c244a8.ctex"]
 
 [params]
 

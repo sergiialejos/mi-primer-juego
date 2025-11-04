@@ -9,7 +9,7 @@ func _ready():
 
 
 
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	pass
 	
 func _on_visible_on_screen_notifier_2d_screen_exited():
